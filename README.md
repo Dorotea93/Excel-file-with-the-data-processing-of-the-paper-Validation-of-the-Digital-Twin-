@@ -1,4 +1,5 @@
 Excel file Installation data PV_DT_v2.2.xlsb contains the data for the validation of the mathematical model of the DT applied to the PV installation located on the roof of the School of Industrial Engineering of Badajoz.
+
 •	In the Datasheet tab you can see the datasheet information of the PV panel, i.e. the data of the electrical characteristics of the panel.
 •	In the DATA_WHATERLINK tab you can see all the data downloaded from the weather station and used for the calculations (wind speed, ambient temperature and solar irradiance).
 •	In the Real_inst_dataPV_5min tab you can find all the data downloaded from the real PV installation which are the current and voltage input to the inverter, in order to calculate the PV power at the inverter input which is the product of the voltage and the current.
